@@ -1,0 +1,145 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/arkaplan.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 144px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 420px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  background-image: url("images/avatar.png");
+  background-position: 50% 50%;
+  animation-duration: 1000ms;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 420px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
+  margin: 99px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  animation-duration: 1000ms;
+  margin: 39px 0 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 48px;
+  min-height: 16px;
+  width: 194px;
+  min-width: 98px;
+  white-space: nowrap;
+  animation-duration: 1000ms;
+  margin: 69px auto 60px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 346px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 346px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 95px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    color: rgb(17, 17, 17) !important;
+  }
+
+  .u-section-1 .u-icon-2 {
+    color: rgb(17, 17, 17) !important;
+  }
+
+  .u-section-1 .u-icon-3 {
+    color: rgb(17, 17, 17) !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 265px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 216px;
+    height: 216px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 65px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 518px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: -376px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 326px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: -248px;
+  }
+}

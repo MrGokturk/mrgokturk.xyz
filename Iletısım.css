@@ -1,0 +1,88 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/arkaplan.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  animation-duration: 1000ms;
+  margin: 200px 489px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 166px auto 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 48px;
+  min-height: 16px;
+  width: 194px;
+  min-width: 98px;
+  white-space: nowrap;
+  animation-duration: 1000ms;
+  margin: 165px auto 60px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 389px;
+    margin-right: 389px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    color: rgb(17, 17, 17) !important;
+  }
+
+  .u-section-1 .u-icon-2 {
+    color: rgb(17, 17, 17) !important;
+  }
+
+  .u-section-1 .u-icon-3 {
+    color: rgb(17, 17, 17) !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 279px;
+    margin-right: 279px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 189px;
+    margin-right: 189px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 89px;
+    margin-right: 89px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 619px;
+  }
+}
